@@ -19,11 +19,9 @@ N3, N3 equivalent, or better
   
 E001002
 Server engineer
-Nishi-Waseda, Tokyo
-¥8.5M annually
+Nishi-Waseda, Tokyo ¥8.5M annually
 "<Must>
 Back end server (API server) development experience.
-
 <Desirable experiences>
  1:(language) PHP, Node.js, Java
  2:(framework) CakePHP, Laravel
@@ -31,22 +29,22 @@ Back end server (API server) development experience.
  4:(cloud) AWS, Azure"
 N3, N3 equivalent, or better
   
+  
     
   E001003
 Infrastructure engineer
-Hamamatsucho, Tokyo. Or customer's places
-¥6M yearly
+Hamamatsucho, Tokyo. Or customer's places¥6M yearly
 "Work experience of one or more of below.
  1:Network design and implementation
  2:Server design and implementation
  3:Database design and implementation"
 Business level (N2)
 
-
+ 
+ 
 E001005
 Embedded software engineer
-Akasakamitsuke, Tokyo. Or customer's places
-¥6M annually
+Akasakamitsuke, Tokyo. Or customer's places¥6M annually
 "Development of chips and/or device drivers in car navigation, healthcare device etc. 
  [Language]JAVA, C, C++ 
  [O/S]Linux, Windows, Android, ITRON, Windows CE etc."
