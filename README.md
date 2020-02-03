@@ -5,7 +5,7 @@ E001001
 AI Engineer/ Data Engineer/ Data Scientists
 Tokyo, Kyoto
 ¥20M annually
-"<Must>
+<Must>
 Work experience as data engineer / data scientist and/or AI engineer.
 University study background in related field.
 
