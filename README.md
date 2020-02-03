@@ -4,18 +4,17 @@ I have some IT jobs around Tokyo, Chiba, Kanagawa and Saitama
 
 E001001
 AI Engineer/ Data Engineer/ Data Scientists
-Tokyo, Kyoto
-¥20M annually
+Tokyo, Kyoto ¥20M annually
 <Must>
 Work experience as data engineer / data scientist and/or AI engineer.
 University study background in related field.
-
 <Desirable>
 :Service development experience using machine learning
 :Development experience of recommendation, customer journey and/or shopping prediction
 :Experience of Python, Java,  Scala, C/C++, Ruby, and/or R"
 N3, N3 equivalent, or better
   
+ 
  
   
 E001002
