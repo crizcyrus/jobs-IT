@@ -76,8 +76,7 @@ Futago-tamagawaen
  
   E001008
 Backbone network engineer
-Futago-tamagawaen
-¥10M yen
+Futago-tamagawaen ¥10M yen
 Design, implementation and operation of backbone network as mobile network operator
 To deal with WDM
 To deal with L2/L3SW, Router (Edge, backbone, internet GW), Firewall, IDS/IPS, DNS"
